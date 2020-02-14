@@ -1,0 +1,15 @@
+C:\Andre\Projetos\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Andre\Projetos\HelloWorld\bin\Debug\HelloWorld.exe.manifest
+C:\Andre\Projetos\HelloWorld\bin\Debug\HelloWorld.application
+C:\Andre\Projetos\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Andre\Projetos\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Andre\Projetos\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Andre\Projetos\HelloWorld\obj\Debug\HelloWorld.exe.manifest
+C:\Andre\Projetos\HelloWorld\obj\Debug\HelloWorld.application
+C:\Andre\Projetos\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Andre\Projetos\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\tmp\HelloWorld.exe.config
+C:\tmp\HelloWorld.exe.manifest
+C:\tmp\HelloWorld.application
+C:\tmp\HelloWorld.exe
+C:\tmp\HelloWorld.pdb
